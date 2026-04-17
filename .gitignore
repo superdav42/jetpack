@@ -65,3 +65,6 @@ phpcs.xml
 
 .pnpm-debug.log
 .pnpm-error.log
+
+# AI DevOps local config
+.aidevops.json
